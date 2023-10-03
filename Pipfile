@@ -7,6 +7,8 @@ name = "pypi"
 fastapi = "*"
 uvicorn = {extras = ["standard"], version = "*"}
 pydantic = "*"
+sqlalchemy = "*"
+email-validator = "*"
 
 [dev-packages]
 
